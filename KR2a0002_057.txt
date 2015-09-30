@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記集解
-#+DATE: 2015-09-23 09:41:17
-#+PROPERTY: JUAN 57
+#+DATE: 2015-08-24 22:19:17.561308
+#+PROPERTY: ID KR2a0002
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十九
 <pb:KR2a0002_WYG_057-1a>¶
 欽定四庫全書¶
 　史記集解卷五十九¶
@@ -146,4 +148,3 @@
 去丞相曰相銀印諸侯獨得食租稅奪之權其後諸侯¶
 貧者或乘牛車也¶
 　史記集解卷五十九¶
-

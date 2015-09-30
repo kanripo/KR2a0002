@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記集解
-#+DATE: 2015-09-23 09:41:17
-#+PROPERTY: JUAN 49
+#+DATE: 2015-08-24 22:19:17.414403
+#+PROPERTY: ID KR2a0002
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十一
 <pb:KR2a0002_WYG_049-1a>¶
 欽定四庫全書¶
 　史記集解卷五十一¶
@@ -74,4 +76,3 @@
 澤卒南面稱孤者三世事發相重豈不為偉乎(晉灼曰/澤以金)¶
 (與田生以事張卿張卿言之吕后而劉澤/得王故曰亊發相重或曰事起於相重也)¶
 　史記集解卷五十一¶
-

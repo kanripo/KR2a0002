@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記集解
-#+DATE: 2015-09-23 09:41:17
-#+PROPERTY: JUAN 53
+#+DATE: 2015-08-24 22:19:17.472606
+#+PROPERTY: ID KR2a0002
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十五
 <pb:KR2a0002_WYG_053-1a>¶
 欽定四庫全書¶
 　史記集解卷五十五¶
@@ -236,4 +238,3 @@
 人失之子羽留侯亦云¶
 　¶
 　史記集解卷五十五¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記集解
-#+DATE: 2015-09-23 09:41:17
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:19:16.759508
+#+PROPERTY: ID KR2a0002
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR2a0002_WYG_012-1a>¶
 欽定四庫全書¶
 　史記集解卷十二¶
@@ -416,4 +418,3 @@
 以來用事於鬼神者具見其表裏後有君子得以覽焉¶
 至若俎豆珪幣之詳獻酬之禮則有司存焉¶
 　史記集解卷十二¶
-
